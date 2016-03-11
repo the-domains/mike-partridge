@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: "Starting out on the journey.\_It's taken a while but finally I have my own site. All being well it should be a portal of all the things I'm up to in this crazy musical life."
-datePublished: '2016-03-11T05:17:32.306Z'
-dateModified: '2016-03-11T05:17:31.472Z'
+description: "It's taken a while but finally I have my own site. All being well it should be a portal of all the things I'm up to in this crazy musical life."
+datePublished: '2016-03-11T05:21:16.132Z'
+dateModified: '2016-03-11T05:21:03.989Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-starting-out-on-the-journey.md
