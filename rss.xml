@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mike Partridge]]></title>
         <description><![CDATA[Mike Partridge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://mikepartridgemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:27:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 03:32:05 GMT</lastBuildDate>
+        <atom:link href="http://mikepartridgemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3769ad11-73f4-4004-b534-e098aef90dfc.jpg">]]></description>
-            <link>undefinedstarting-out-on-the-journey/index.html</link>
+            <link>http://mikepartridgemusic.com/starting-out-on-the-journey/index.html</link>
             <guid isPermaLink="false">19f768ca-34a4-480b-9ffd-e911a3aafafd</guid>
-            <pubDate>Thu, 10 Mar 2016 17:27:09 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 03:30:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
