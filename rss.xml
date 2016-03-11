@@ -4,8 +4,15 @@
         <description><![CDATA[The Home Of Partridge's Musical Fiasco]]></description>
         <link>http://mikepartridgemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 04:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 05:17:45 GMT</lastBuildDate>
         <atom:link href="http://mikepartridgemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Starting out on the journey. ]]></title>
+            <description><![CDATA[<article><h1>Starting out on the journey. </h1><p>It's taken a while but finally I have my own site. All being well it should be a portal of all the things I'm up to in this crazy musical life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61f6b25af42e4b9370c20c7330d39e3b55e5b87f.jpg"></article>]]></description>
+            <link>http://mikepartridgemusic.com/starting-out-on-the-journey/index.html</link>
+            <guid isPermaLink="false">19f768ca-34a4-480b-9ffd-e911a3aafafd</guid>
+            <pubDate>Fri, 11 Mar 2016 05:17:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PolyNome]]></title>
             <description><![CDATA[<article><h1>PolyNome</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0e76aa19118e2f3abc157e9c159925c3b687c42.png"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>urn:uuid:7f991478-b6ec-4c07-a522-1138022eced8</link>
             <guid isPermaLink="false">2f69b806-194b-4962-9b05-43cd907fbd72</guid>
             <pubDate>Fri, 11 Mar 2016 03:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starting out on the journey. ]]></title>
-            <description><![CDATA[<article><h1>Starting out on the journey. </h1><p>Starting out on the journey. It's taken a while but finally I have my own site. All being well it should be a portal of all the things I'm up to in this crazy musical life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61f6b25af42e4b9370c20c7330d39e3b55e5b87f.jpg"></article>]]></description>
-            <link>http://mikepartridgemusic.com/starting-out-on-the-journey/index.html</link>
-            <guid isPermaLink="false">19f768ca-34a4-480b-9ffd-e911a3aafafd</guid>
-            <pubDate>Fri, 11 Mar 2016 03:55:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
