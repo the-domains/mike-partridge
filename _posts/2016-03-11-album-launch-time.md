@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-11T03:51:55.761Z'
-dateModified: '2016-03-11T03:51:39.937Z'
+datePublished: '2016-03-11T05:19:48.029Z'
+dateModified: '2016-03-11T03:59:31.205Z'
 author: []
 title: Album launch time
 sourcePath: _posts/2016-03-11-album-launch-time.md
