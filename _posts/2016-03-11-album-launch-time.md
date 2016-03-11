@@ -1,21 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:7f991478-b6ec-4c07-a522-1138022eced8'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-11T03:51:55.761Z'
+dateModified: '2016-03-11T03:51:39.937Z'
 author: []
-datePublished: '2016-03-11T03:48:06.826Z'
-publisher:
-  domain: ''
-  name: ''
 title: Album launch time
-dateModified: '2016-03-11T03:46:39.773Z'
 sourcePath: _posts/2016-03-11-album-launch-time.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: album-launch-time/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Album launch time
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7094b97-402c-42be-ade3-625924878bf1.png)
+
+Getting to make some earthy drum sounds for Liam Blake's LHO release party. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdc6cf02fd8497911b607158b20979c79a1a2493.png)
